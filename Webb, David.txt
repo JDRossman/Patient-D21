@@ -1,0 +1,41 @@
+Name: David Webb
+ID: #D-21
+Sex: Male
+Age: 24
+Height: 174 cm
+Weight: 69 kg
+
+Bio:
+
+7th September, 2453
+Patient is a young man at the age of 24. Physical stature is weak to average, patient seems to have slightly 
+less than average bone density and muscle mass. Physical performance is poor, detiriorated from sustained
+periods of alchohol, prescription and tobacco abuse. CT, XGT and MRI scans shows heightened activity 
+in the amygdaloid nucleus, suggesting the patient is highly subjectable to fear and potential manipulation. 
+
+27th September, 2453
+Patient has shown remarkable adaptation to the LUCIS environment, further research required to pinpoint 
+actual cause of adaptation. Patient is engaging in default scenarios (Scenario 1, 2, 3 and 4) and is 
+navigating them with ease. Patient is also creating scenarios of his own, utilizing LUCIDs to its fullest potential. 
+As of current date, patient has completed more than 522 self-created cycles. 
+Logs of brain wave activity through each scenario has been logged and archived.
+
+Timeline: 
+Patient has been designated as #D-21.
+Patient was instated at the infirmary of Houston City Police Department on the 4th of September, 2453. 
+Patient had suffered a severe head wound, caused by blunt trauma from a baton.
+Urgent medical treatment stabilized the patient.
+Transfered to Red Hill the 5th of September, 2453.
+Patient moved to ward for recovery fase.
+Patient deemed suitable for instatement into LUCIDS the 21th of September, 2453.
+Instated into LUCIDs under the supervision of Dr. J. D. Rossman.
+Patient responding well to LUCID simulations.
+Patient has begun creating his own cycles.
+Dr. J. D. Rossman suggests involving Neuro Psych to pinpoint source of patient's extraordinary adaptation. 
+
+Current Status:
+ALIVE
+
+REM Cyclus:
+STABLE
+
